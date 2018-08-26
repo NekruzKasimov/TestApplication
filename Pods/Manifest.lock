@@ -1,0 +1,27 @@
+PODS:
+  - SkyFloatingLabelTextField (3.5.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyXMLParser (4.1.0)
+
+DEPENDENCIES:
+  - SkyFloatingLabelTextField
+  - SVProgressHUD
+  - SwiftyXMLParser (from `https://github.com/yahoojapan/SwiftyXMLParser.git`)
+
+EXTERNAL SOURCES:
+  SwiftyXMLParser:
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+CHECKOUT OPTIONS:
+  SwiftyXMLParser:
+    :commit: 1ddcad0a09efb85f2325d994c2169cd9ba116ae3
+    :git: https://github.com/yahoojapan/SwiftyXMLParser.git
+
+SPEC CHECKSUMS:
+  SkyFloatingLabelTextField: 4cbeece9c3aae97c6019d8fae511cb5b755874f7
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyXMLParser: b5a79fb8a730903703d0a92d30752a0b05158967
+
+PODFILE CHECKSUM: 46c7d0698369e1a3d0c4f579ec37befea8ece84c
+
+COCOAPODS: 1.4.0
